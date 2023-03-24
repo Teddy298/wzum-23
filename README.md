@@ -16,7 +16,8 @@ Unless it is decided otherwise, the classes will be held in-person.
 
 * 6.03 - Course logistics, Machine Learning and PyTorch recap
 * 13.03 - Classification uncertainty, model calibration, early exit networks
-* 20.03 - 
+* 20.03 - Initial projects consultations (no new notebook)
+* 27.03 - TBA
 
 
 ### Prerequisites
