@@ -43,7 +43,7 @@ Attendance is **compulsory**, with up to 3 missed classes.
 
 Each lab is graded based on a lab assignment, which should be completed and submitted up to 2 weeks after the lab. Some assignments may be longer or cover more than one topic from the lecture - in such cases, the deadline can be extended.
 
-You can receive at most 3 points for an assignment, and they can be deducted for incorrect / incomplete / late submissions. 
+You can receive at most 2 points for an assignment, and they can be deducted for incorrect / incomplete / late submissions. 
 
 Lab assignment will usually consist of submitting a completed Jupyter Notebook.
 
